@@ -8,3 +8,4 @@ Key Features of this project:
 -After log-in, a JWT token is created and is stored in the cookies.
 -In the JWT token, we are storing no important data.
 -Both the server side and client side validation has been used in this project.
+-The entire source code is divided into different folders and files for ease of working and making future changes.
